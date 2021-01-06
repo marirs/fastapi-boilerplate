@@ -9,6 +9,11 @@ A FastAPI project!
 - Connects to MongoDB
 
 ![](docs/fastAPIboilerplate.png)
+
+---
+
+A Rust version can be found [here](https://github.com/marirs/rocketapi).
+
 ---
 #### Requirements
 
