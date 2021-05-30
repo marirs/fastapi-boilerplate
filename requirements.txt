@@ -12,7 +12,7 @@ motor==2.0.0
 passlib==1.7.1
 pipenv==2018.11.26
 pycparser==2.19
-pydantic==0.32.2
+pydantic==1.8.2
 pymongo==3.9.0
 python-http-client==3.2.1
 python-multipart==0.0.5
